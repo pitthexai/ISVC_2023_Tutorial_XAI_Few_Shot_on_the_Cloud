@@ -1,5 +1,5 @@
 # Explainable Deep Few-shot Learning on the Cloud and its Application in Medical Imaging Informatics (<a href="http://www.isvc.net/index.php/tutorials/" target="_blank">ISVC 2023 Tutorials</a>) 
-# 18th International Symposium on Visual Computing (ISVC 2023) <a href="http://www.isvc.net/" target="_blank">ISVC 2023</a>
+# <a href="http://www.isvc.net/" target="_blank">18th International Symposium on Visual Computing (ISVC 2023)</a>
 
 ## Track II: Medical Imaging 
 <p align="justify">AI fairness in medical image analysis is a critical aspect in the development of fair AI and deep learning models in healthcare settings. For instance, an accurate and reliable segmentation of medical images is essential for precise disease diagnosis, personalized treatment planning, and effective patient monitoring. However, when fairness is not adequately addressed, these AI models can inadvertently perpetuate biases and disparities in healthcare delivery. Fairness in medical image segmentation ensures that the AI algorithms do not discriminate against individuals based on their race, gender, socioeconomic status, or any other demographic factors. It aims to provide equitable healthcare outcomes for all patients, irrespective of their background or characteristics.</p>
