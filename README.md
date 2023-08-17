@@ -1,4 +1,4 @@
-# Explainable Deep Few-shot Learning on the Cloud and its Application in Medical Imaging Informatics (<a href="http://www.isvc.net/index.php/tutorials/" target="_blank">ISVC 2023 Tutorials</a>) 
+# <a href="https://pitthexai.github.io/isvc-xfcloud/" target="_blank">Explainable Deep Few-shot Learning on the Cloud and its Application in Medical Imaging Informatics</a>
 # <a href="http://www.isvc.net/" target="_blank">18th International Symposium on Visual Computing (ISVC 2023)</a>
 
 ## Tutorial
