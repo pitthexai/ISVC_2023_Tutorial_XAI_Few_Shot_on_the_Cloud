@@ -20,6 +20,7 @@
 
 ### Organizers, Instructors, and Speakers  
 + <p align="justify"><a href="https://pitthexai.github.io/people.html" target="_blank">Nickolas Littlefield</a>, MS (PhD Student), University of Pittsburgh.</p>
++ <p align="justify"><a href="https://pitthexai.github.io/people.html" target="_blank">Aysan Aghazadeh</a>, (PhD Student), University of Pittsburgh.</p>
 + <p align="justify"><a href="https://amiielab.github.io/" target="_blank">Soheyla Amirian</a>, PhD, University of Georgia.</p>
 + <p align="justify"><a href="https://medicine.umich.edu/dept/dcmb/arvind-rao-phd" target="_blank">Arvind Rao</a>, PhD, University of Michigan.</p>
 + <p align="justify"><a href="https://www.linkedin.com/in/iman-mr-zadeh?original_referer=https%3A%2F%2Fscholar.google.com%2F" target="_blank">Iman Zadeh</a>, PhD, Oracle.</p>
