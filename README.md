@@ -12,8 +12,8 @@
 
 ### Dataset
 <p align="justify">We will be using knee/hip radiographs (X-rays) that are publicly available through the <a href="https://nda.nih.gov/oai" target="_blank">Osteoarthritis Initiative (OAI)</a>. You may want to create an account there and download knee/hip X-ray images. However, in this GitHub repository, we provide you with a sample subset of the images with manual localization bounding boxes and segmentation masks. During the tutorial, we will be mainly using this sample data.</p>
-<strong> Localization Sample Dataset</strong> [<a href="https://drive.google.com/file/d/1OMkD6_NMlBdgTbamB09wREn3qpuA36ew/view?usp=sharing" target="_blank">Download</a>]<br/>
-<strong> Segmentation Dataset</strong> [<a href="https://drive.google.com/file/d/1stpeJpWQ9yzCQJMYsRnQNvhsU29jsB5N/view?usp=sharing" target="_blank">Download</a>]<br/>
+<strong> Localization Sample Dataset</strong> [<a href="https://github.com/pitthexai/ISVC_2023_Tutorial_XAI_Few_Shot_on_the_Cloud/blob/b336300602cafaf6fecfc549e73d41e34b8b6c54/SampleDataset(s)/ISVC_Localization.zip" target="_blank">Download</a>]<br/>
+<strong> Segmentation Dataset</strong> [<a href="https://github.com/pitthexai/ISVC_2023_Tutorial_XAI_Few_Shot_on_the_Cloud/blob/b336300602cafaf6fecfc549e73d41e34b8b6c54/SampleDataset(s)/ISVC_Segmentation.zip " target="_blank">Download</a>]<br/>
 
 ### Python code and Implementation
 <p align="justify">This GitHub repository also includes all Python codes and implementations tight to the current tutorial/hackathon.</p>
