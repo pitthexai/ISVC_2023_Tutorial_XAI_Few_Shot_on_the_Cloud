@@ -1,6 +1,0 @@
-names:
-- KneeAPView
-nc: 1
-test: /home/datascience/ISVC_2023_Tutorial_XAI_Few_Shot_on_the_Cloud/Code/Localization/Few_Shot_Sets/1-shot//test/images
-train: /home/datascience/ISVC_2023_Tutorial_XAI_Few_Shot_on_the_Cloud/Code/Localization/Few_Shot_Sets/1-shot//train/images
-val: /home/datascience/ISVC_2023_Tutorial_XAI_Few_Shot_on_the_Cloud/Code/Localization/Few_Shot_Sets/1-shot//valid/images
