@@ -15,6 +15,9 @@
 <strong> Localization Sample Dataset</strong> [<a href="https://github.com/pitthexai/ISVC_2023_Tutorial_XAI_Few_Shot_on_the_Cloud/blob/b336300602cafaf6fecfc549e73d41e34b8b6c54/SampleDataset(s)/ISVC_Localization.zip" target="_blank">Download</a>]<br/>
 <strong> Segmentation Dataset</strong> [<a href="https://github.com/pitthexai/ISVC_2023_Tutorial_XAI_Few_Shot_on_the_Cloud/blob/b336300602cafaf6fecfc549e73d41e34b8b6c54/SampleDataset(s)/ISVC_Segmentation.zip " target="_blank">Download</a>]<br/>
 
+<strong> Few-Shot Segmentation Checkpoints </strong> [<a href="https://github.com/pitthexai/ISVC_2023_Tutorial_XAI_Few_Shot_on_the_Cloud/blob/b336300602cafaf6fecfc549e73d41e34b8b6c54/SampleDataset(s)/ISVC_Segmentation.zip" target="_blank">Download</a>]<br/>
+
+
 ### Python code and Implementation
 <p align="justify">This GitHub repository also includes all Python codes and implementations tight to the current tutorial/hackathon.</p>
 
